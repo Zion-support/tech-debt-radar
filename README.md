@@ -12,7 +12,8 @@ Visualize and prioritize technical debt across your codebase with a scored, inte
 
 ## Part of the Zion App Network
 - 🏠 [Zion Tech Group](https://ziontechgroup.com)
-- 🌐 [App Network Showcase](https://ziontechgroup.com/app-network/) · [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+- 🗂️ Master directory — [Zion App Network](https://ziontechgroup.com/zion-app-network/) ([source](https://github.com/Zion-support/zion-app-network))
+- 🧰 [DevOps & FinOps Toolkit](https://github.com/Zion-support/zion-app-network/blob/main/docs/DEVOPS_FINOPS_TOOLKIT.md)
 
 ## Related apps
 - [k8s-yaml-linter](https://github.com/Zion-support/k8s-yaml-linter) — Kubernetes misconfiguration and cost hints
@@ -20,3 +21,8 @@ Visualize and prioritize technical debt across your codebase with a scored, inte
 - [postmortem-generator](https://github.com/Zion-support/postmortem-generator) — blameless incident reviews
 - [managed-it-health-check](https://github.com/Zion-support/managed-it-health-check) — infra/security/ops self-assessment
 - [changelog-writer](https://github.com/Zion-support/changelog-writer) — polished release notes from commits
+
+🧰 Tools: https://ziontechgroup.com/tools/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · ✉️ commercial@ziontechgroup.com
+
+---
+© 2026 Zion Tech Group
